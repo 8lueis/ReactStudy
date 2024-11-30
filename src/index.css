@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+}
+
+li{
+  list-style: none;
+}
+
+.list_day{
+  padding: 0;
+}
+
+.lilist{
+  display: inline-block;
+  padding: 1rem;
+  margin: 0.5rem;
+  background-color: rgb(126, 159, 190);
+  border-radius: 1rem;
+}
+
+table{
+  background-color: rgb(245, 245, 194);
+  display: inline-block;
+  margin: 1rem auto;
+  padding: 0.5rem;
+  border-radius: 2rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+table td{
+  margin: 10%;
+}
+.title-name{
+  color: rgb(126, 159, 190);
+  font-size: 40px;
+}
+
+.menu a{
+  color: rgb(205, 215, 223);
+  font-weight: 700;
+  padding: 1rem;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+button{
+  border: none;
+  background-color: white;
+  border-radius: 1rem;
+  margin: 1rem;
+  padding: 0.5rem;
+
+}
+
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
